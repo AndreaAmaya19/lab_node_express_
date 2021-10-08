@@ -1,0 +1,22 @@
+{
+  "name": "lab_node_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreaAmaya19/lab_node_express_.git"
+  },
+  "author": "Andrea Amaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreaAmaya19/lab_node_express_/issues"
+  },
+  "homepage": "https://github.com/AndreaAmaya19/lab_node_express_#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
