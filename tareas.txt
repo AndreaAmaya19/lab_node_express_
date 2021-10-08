@@ -1,0 +1,5 @@
+1. definir estructura
+2. instalar configurar y probar mi servidor express
+3. 
+4.
+
