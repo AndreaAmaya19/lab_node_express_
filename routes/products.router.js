@@ -1,6 +1,6 @@
 const {Router} = require('express');
 const router = Router();
-const {productsController} = require('../controllers')
+const { productsController } = require('../controllers')
 
 router.get('/uno', productsController.getProduct);
 

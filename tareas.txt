@@ -5,3 +5,6 @@
     4.1 Configurar mongodb
     4.2 definir los metodos: create, list, delete, update
 5. probar el crud de productos
+
+
+mongodb+srv://lab_node_express:<password>@cluster0.9pw9n.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
