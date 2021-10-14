@@ -3,5 +3,9 @@
 3. definir las rutas asociadas al crud de productos y ventas
 4. definir los controladores asociados al crud de productos y ventas
     4.1 Configurar mongodb
-    4.2 definir los metodos: create, list, delete, update
+    4.2 crear los metodos: create, list, delete, update
+    4.3 definir los metodos: create, list, delete, update
 5. probar el crud de productos
+
+
+mongodb+srv://lab_node_express:<password>@cluster0.9pw9n.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
