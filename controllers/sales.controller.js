@@ -1,4 +1,4 @@
-const SalesSchema = require('../models/sale')
+const SaleSchema = require('../models/sale')
 
 
 const getSales = (req, res) => {

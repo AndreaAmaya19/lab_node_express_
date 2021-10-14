@@ -4,6 +4,10 @@ const routes = require('./routes');
 const morgan = require('morgan');
 const mongoose = require('mongoose');
 const dbConfig = require('./config/db');
+const bodyParser = require('body-parser');
+
+app.use(express.json())
+app.use(bodyParser.urlencoded(bodyParser.json));
 
 mongoose.connect(dbConfig.dbStringConnect);
 
